@@ -44,7 +44,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Enterprise AI
@@ -57,6 +57,8 @@ tags:
 - Governance
 apis: []
 common:
+- url: https://tesseralabs.ai/insights
+  type: Blog
 - type: DomainSecurity
   url: security/tessera-labs-domain-security.yml
 - type: Website
